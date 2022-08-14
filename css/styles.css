@@ -20,12 +20,11 @@ body {
     text-indent: 40px;
   }
 .resume {
-  margin: 75px;
+  margin: 20px;
   border: dashed 1px black;
   background-color: cornflowerblue;
   padding: 4px;
   text-align: left;
-
 }
 h1 {
   color: darkblue;
