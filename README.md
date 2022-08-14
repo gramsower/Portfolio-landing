@@ -15,7 +15,7 @@ This project generates webpage displaying information about the author, as well 
 
 ## Setup/Installation Requirements
 
-*Open a web browser, navigate to the website https://gramsower.github.io/Portfolio-landing and enjoy!
+Open a web browser, navigate to the website https://gramsower.github.io/Portfolio-landing and enjoy!
 
 ## Known Bugs
 

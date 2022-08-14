@@ -9,20 +9,29 @@ body {
   box-sizing: border-box;
 }
 .box1 {
-  width: 50%;
+  width: 40%;
   margin: auto;
   text-align: center;
   border:1px solid black;
   background-color: lightblue;
   }
+
   .about-me {
     text-align: left;
     text-indent: 40px;
   }
+
+  .free-time {
+    margin-bottom: 50px;
+    text-align: left;
+    text-indent: 40px;
+  }
+
 .resume {
   margin: 20px;
   border: dashed 1px black;
   background-color: cornflowerblue;
+  float: right;
   padding: 4px;
   text-align: left;
 }
@@ -47,4 +56,5 @@ h1 {
 
 .portfolio-heading {
   text-align: center;
+  margin-top: 100px;
 }
