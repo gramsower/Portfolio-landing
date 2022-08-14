@@ -1,20 +1,22 @@
 .page {
-  margin: 1px;
-  background-color: lightblue;
+  background-color: white;
+  padding: 10px;
   text-align: center;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 .box1 {
+  width: 500px;
   text-align: center;
-  margin 10px;
-  border: 10px black;
-  background-color: white;
+  border:1px solid black;
+  background-color: lightblue;
+  
 
 }
 .resume {
-  border: 10px orange;
-
+  margin: 75px;
+  border: dashed 1px orange;
+  padding: 4px;
   text-align: left;
 
 }
