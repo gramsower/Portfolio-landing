@@ -2,12 +2,14 @@ body {
   background: url('background.jpeg');
   background-repeat: no-repeat;
 }
+
 .page {
   padding: 10px;
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   box-sizing: border-box;
 }
+
 .box1 {
   width: 50%;
   margin: auto;
@@ -19,6 +21,7 @@ body {
     text-align: left;
     text-indent: 40px;
   }
+
 .resume {
   margin: 20px;
   border: dashed 1px black;
@@ -26,15 +29,25 @@ body {
   padding: 4px;
   text-align: left;
 }
+
 h1 {
-  color: darkblue;
+  color:  darkblue;
   text-align: center;
+}
+
+h2 {
+  color: darkblue;
+}
+
+h3 {
+  color: navy;
+  text-decoration: underline;
 }
 
 .list {
   text-align: left;
   border: 2px solid green;
-  background-color: lightgrey;
+  background-color: rgb(224, 209, 189);
   padding: 4px;
   margin-top: 20px;
   margin-bottom: 20px;
